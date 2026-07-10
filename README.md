@@ -58,10 +58,12 @@ Premium handmade crochet e-commerce platform built with Spring Boot and Thymelea
 **Tech Stack:** Spring Boot, Thymeleaf, PostgreSQL, Bootstrap, HTML, CSS, JavaScript  
 🔗 [Repository](https://github.com/satish979/SatPall-Crochet)
 
-### Alchemist FTP Automation
-Enterprise document processing and FTP automation platform for reliable file workflows.
+### Namma Karnataka Portal
+A responsive web application inspired by Karnataka's digital governance platform, showcasing government services, schemes, and citizen resources with a clean and modern user interface.
 
-**Tech Stack:** Spring Boot, RabbitMQ, REST APIs, Docker, File Processing, Reporting
+**Tech Stack:** React.js, JavaScript, HTML, CSS, Responsive Design  
+🌐 **Live Demo:** https://namma-karnataka-frontend-git-dev-satishs-projects-1f38ce2a.vercel.app/  
+🔗 **Repository:** https://github.com/satish979/namma-karnataka-frontend
 
 ---
 
