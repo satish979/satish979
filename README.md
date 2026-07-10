@@ -59,11 +59,11 @@ Premium handmade crochet e-commerce platform built with Spring Boot and Thymelea
 🔗 [Repository](https://github.com/satish979/SatPall-Crochet)
 
 ### Namma Karnataka Portal
-A responsive web application inspired by Karnataka's digital governance platform, showcasing government services, schemes, and citizen resources with a clean and modern user interface.
+A responsive web application showcasing Karnataka's beautiful places, culture, and tourist destinations.
 
 **Tech Stack:** React.js, JavaScript, HTML, CSS, Responsive Design  
 🌐 **Live Demo:** https://namma-karnataka-frontend-git-dev-satishs-projects-1f38ce2a.vercel.app/  
-🔗 **Repository:** https://github.com/satish979/namma-karnataka-frontend
+🔗  [Repository](https://github.com/satish979/namma-karnataka-frontend)
 
 ---
 
